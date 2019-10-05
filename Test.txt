@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 zzz
 nnnnn
 zzzzzzzz
-=======
->>>>>>> parent of b8dfdd0... commit Test.txt
